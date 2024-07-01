@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the meow 1.0
+---------------------------------------------------
+
+app_name - 						meow
+app_alias - 					meow
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Uttar Pradesh
+app_author_country - 			India
+app_password - 					5LcTwSQV5wC2
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Tuesday 20th of February 2024 05:39:30 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
